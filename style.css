@@ -1,0 +1,18 @@
+div{
+    border: 3px solid rgb(2, 2, 0);
+    border-radius: 15px;
+    border-left: 5px;
+    border-color: rgb(1, 169, 82);
+    width:fit-content;
+    border: 3px solid rgb(67, 18, 190);
+    padding:30px;
+    animation-name: pika1;
+    border: 1px solid black;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes pika1 {
+    from{background-color: rgb(255, 221, 0);}
+    to{background-color: white;}
+    
+}
